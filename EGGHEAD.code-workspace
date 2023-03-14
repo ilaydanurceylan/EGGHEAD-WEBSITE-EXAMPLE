@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..Yeni klasör/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EGGHEAD"
+	}
+}
